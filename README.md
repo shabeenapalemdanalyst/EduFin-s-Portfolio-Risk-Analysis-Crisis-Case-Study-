@@ -27,6 +27,7 @@ GitHub for Documentation & Version Control
 #### 📂 Data Source
 
 The analysis is based on EduFin’s simulated enterprise loan database containing 4 years of education lending data (2021–2025).
+
 • Core Datasets
 • loans.csv → Loan lifecycle & transactional data
 • customers.csv → Borrower demographics & financial profiles
@@ -57,6 +58,7 @@ Executive-level analysis of:
 • Board-ready crisis summary
 
 Key Insights
+
 ✔ Financial impact assessment/
 ✔ Risk category breakdown/
 ✔ Portfolio viability analysis
