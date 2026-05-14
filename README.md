@@ -166,4 +166,4 @@ This project demonstrates how data analytics and SQL can be used in high-pressur
 and 
 • Strengthen regulatory compliance readiness.
 
-![SQL Dashboard Image]([image-path-or-url](https://github.com/shabeenapalemdanalyst/EduFin-s-Portfolio-Risk-Analysis-Crisis-Case-Study-/blob/main/query5e.PNG))
+![SQL Dashboard Image](https://github.com/shabeenapalemdanalyst/EduFin-s-Portfolio-Risk-Analysis-Crisis-Case-Study-/blob/main/query5e.PNG).
