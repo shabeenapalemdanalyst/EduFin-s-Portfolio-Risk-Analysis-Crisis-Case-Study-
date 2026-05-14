@@ -63,8 +63,8 @@ Executive-level analysis of:
 
 Key Insights:
 
-✔ Financial impact assessment/
-✔ Risk category breakdown/
+✔ Financial impact assessment
+✔ Risk category breakdown
 ✔ Portfolio viability analysis
 ✔ Executive dashboard generation
 
