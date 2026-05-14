@@ -61,7 +61,7 @@ Executive-level analysis of:
 • Automated health classification system
 • Board-ready crisis summary
 
-Key Insights
+Key Insights:
 
 ✔ Financial impact assessment/
 ✔ Risk category breakdown/
@@ -77,7 +77,7 @@ Regional performance analysis to identify:
 • Market-level financial exposure
 • Regional lending risk classification
 
-Key Insights
+Key Insights:
 
 ✔ City-wise default rates
 ✔ Geographic crisis hotspots
@@ -88,7 +88,7 @@ Key Insights
 
 Advanced borrower profiling for collections prioritization.
 
-Key Insights
+Key Insights:
 
 ✔ High-value defaulter identification
 ✔ Multi-loan default behavior
@@ -100,7 +100,7 @@ Key Insights
 
 Institution-level underwriting performance evaluation.
 
-Key Insights
+Key Insights:
 
 ✔ University-wise default rates
 ✔ Financial loss attribution
