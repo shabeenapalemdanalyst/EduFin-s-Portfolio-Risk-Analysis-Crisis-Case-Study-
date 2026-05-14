@@ -1,5 +1,5 @@
 # EduFin Crisis Analytics — Education Loan Portfolio Risk Investigation
-#### Short Description / Purpose
+#### Description
 
 EduFin Crisis Analytics is a comprehensive SQL-based financial risk analysis project designed to investigate a ₹12 Crore discrepancy in student loan disbursements affecting 15,000+ accounts.
 The project simulates a real-world fintech crisis scenario where a Data Analyst must deliver board-level insights within 48 hours before a federal compliance audit.
@@ -57,8 +57,8 @@ Executive-level analysis of:
 • Board-ready crisis summary
 
 Key Insights
-✔ Financial impact assessment
-✔ Risk category breakdown
+✔ Financial impact assessment/
+✔ Risk category breakdown/
 ✔ Portfolio viability analysis
 ✔ Executive dashboard generation
 
