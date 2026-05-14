@@ -49,7 +49,7 @@ The analysis is based on EduFin’s simulated enterprise loan database containin
 
 #### ✨ Features / Highlights
 
-📊 Phase 1 — Portfolio Health Check
+##### 📊 Phase 1 — Portfolio Health Check
 
 Executive-level analysis of:
 
@@ -68,7 +68,7 @@ Key Insights:
 ✔ Portfolio viability analysis
 ✔ Executive dashboard generation
 
-🌍 Phase 2 — Geographic Risk Analysis
+##### 🌍 Phase 2 — Geographic Risk Analysis
 
 Regional performance analysis to identify:
 
@@ -84,7 +84,7 @@ Key Insights:
 ✔ Capital-at-risk mapping
 ✔ Strategic halt-lending recommendations
 
-👥 Phase 3 — Customer Risk Segmentation
+##### 👥 Phase 3 — Customer Risk Segmentation
 
 Advanced borrower profiling for collections prioritization.
 
@@ -96,7 +96,7 @@ Key Insights:
 ✔ Income & employment default trends
 ✔ Priority-based collections target list
 
-🏫 Phase 4 — Institutional Partnership Risk
+##### 🏫 Phase 4 — Institutional Partnership Risk
 
 Institution-level underwriting performance evaluation.
 
@@ -108,7 +108,7 @@ Key Insights:
 ✔ Blacklist candidate identification
 ✔ Partner scorecards for renegotiation decisions
 
-📈 Phase 5 — Crisis Timeline & Time Intelligence
+##### 📈 Phase 5 — Crisis Timeline & Time Intelligence
 
 Time-series analysis to identify:
 
