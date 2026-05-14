@@ -165,3 +165,5 @@ This project demonstrates how data analytics and SQL can be used in high-pressur
 • Optimize collections operations,
 and 
 • Strengthen regulatory compliance readiness.
+
+![SQL Dashboard Image](image-path-or-url)
