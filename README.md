@@ -14,6 +14,7 @@ Using portfolio, customer, geographic, institutional, and payment data, this pro
 The project focuses on transforming raw financial data into executive-ready dashboards, risk classifications, and strategic recommendations using advanced SQL analytics.
 
 #### 🛠️ Tech Stack
+
 • SQL (MySQL / PostgreSQL compatible)
 • Window Functions
 • CTEs (Common Table Expressions)
@@ -24,6 +25,7 @@ The project focuses on transforming raw financial data into executive-ready dash
 • Financial Reporting Standards
 • Excel / CSV Datasets
 GitHub for Documentation & Version Control
+
 #### 📂 Data Source
 
 The analysis is based on EduFin’s simulated enterprise loan database containing 4 years of education lending data (2021–2025).
@@ -38,6 +40,7 @@ The analysis is based on EduFin’s simulated enterprise loan database containin
 • dim_city.csv → City & state mapping
 
 #### Business Context
+
 • ₹12 Crore loan discrepancy
 • 15,000+ impacted student accounts
 • Rising default rates beyond industry thresholds
@@ -45,6 +48,7 @@ The analysis is based on EduFin’s simulated enterprise loan database containin
 • Potential timestamp inconsistencies after Oracle → Salesforce migration (Jan 2024)
 
 #### ✨ Features / Highlights
+
 📊 Phase 1 — Portfolio Health Check
 
 Executive-level analysis of:
@@ -74,6 +78,7 @@ Regional performance analysis to identify:
 • Regional lending risk classification
 
 Key Insights
+
 ✔ City-wise default rates
 ✔ Geographic crisis hotspots
 ✔ Capital-at-risk mapping
@@ -84,6 +89,7 @@ Key Insights
 Advanced borrower profiling for collections prioritization.
 
 Key Insights
+
 ✔ High-value defaulter identification
 ✔ Multi-loan default behavior
 ✔ CIBIL score risk correlation
@@ -95,6 +101,7 @@ Key Insights
 Institution-level underwriting performance evaluation.
 
 Key Insights
+
 ✔ University-wise default rates
 ✔ Financial loss attribution
 ✔ Partnership risk classification
@@ -104,12 +111,14 @@ Key Insights
 📈 Phase 5 — Crisis Timeline & Time Intelligence
 
 Time-series analysis to identify:
+
 • Exact onset of the lending crisis
 • Default trend acceleration
 • Vintage cohort deterioration
 • Rolling financial loss accumulation
 
-Advanced SQL Concepts Used
+Advanced SQL Concepts Used:
+
 ✔ LAG() Window Functions
 ✔ Cohort Analysis
 ✔ Month-over-Month Default Velocity
@@ -123,7 +132,9 @@ Classification	    Default Rate	        Action Required
 🟠                 MODERATE RISK	5–10%	  Enhanced monitoring
 🟡                 HIGH RISK	10–15%	    Collection escalation
 🔴                 CRITICAL	>15%	        Crisis management activation
+
 #### 📌 Business Problems Solved
+
 • Quantified total financial exposure
 • Identified highest-risk borrowers
 • Detected failing geographic markets
@@ -132,6 +143,7 @@ Classification	    Default Rate	        Action Required
 • Generated board-level risk intelligence
 • Supported compliance audit preparation
 #### 📚 SQL Concepts Demonstrated
+
 • Joins & Multi-table Analysis
 • Aggregate Functions
 • CASE Statements
@@ -142,6 +154,7 @@ Classification	    Default Rate	        Action Required
 • Financial KPI Calculations
 • Time-Series Analysis
 • Business Intelligence Reporting
+
 #### 🎯 Project Outcome
 
 This project demonstrates how data analytics and SQL can be used in high-pressure fintech crisis environments to:
