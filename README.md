@@ -127,11 +127,11 @@ Advanced SQL Concepts Used:
 ✔ Vintage Risk Tracking
 
 #### 🚦 Portfolio Health Classification System
-Classification	    Default Rate	        Action Required
-🟢                 HEALTHY	≤ 5%	        Standard monitoring
-🟠                 MODERATE RISK	5–10%	  Enhanced monitoring
-🟡                 HIGH RISK	10–15%	    Collection escalation
-🔴                 CRITICAL	>15%	        Crisis management activation
+Classification	 -   Default Rate	    -    Action Required
+🟢        -         HEALTHY	≤ 5%	    -    Standard monitoring
+🟠        -         MODERATE RISK	5–10%	 - Enhanced monitoring
+🟡        -         HIGH RISK	10–15%	 -   Collection escalation
+🔴        -         CRITICAL	>15%	   -     Crisis management activation
 
 #### 📌 Business Problems Solved
 
